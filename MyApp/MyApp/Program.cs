@@ -8,8 +8,15 @@ namespace MyApp
         {
             Console.WriteLine("Please enter a year, to check if it is a leap year. \n Then press [Enter]");
             try{
+                
                 int year = int.Parse(Console.ReadLine());
-                IsLeapYear(year);
+                
+                if(IsLeapYear(year)){
+                    Console.WriteLine("yay");
+                } else {
+                    Console.WriteLine("nay");
+                };
+
             } catch (ArgumentException e) {
                 Console.WriteLine(e.Message);
             } catch (FormatException e) {
@@ -23,16 +30,12 @@ namespace MyApp
             }
             if(year%4 == 0){
                 if(year%400 == 0){
-                    Console.WriteLine("yay");
                     return true;
                 } else if(year%100 == 0){
-                    Console.WriteLine("nay");
                     return false;
                 }
-                Console.WriteLine("yay");
                 return true;
             }
-            Console.WriteLine("nay");
             return false;
         }
     }
