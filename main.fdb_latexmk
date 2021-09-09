@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1631100647 "/Users/jakobhjalgrim/Documents/ITU/3. Semester/BDSA/Assignments_Exercises/bdsa_assignment0/main.tex" "/Users/jakobhjalgrim/Documents/ITU/3. Semester/BDSA/Assignments_Exercises/bdsa_assignment0/main.pdf" "main" 1631100661
-  "/Users/jakobhjalgrim/Documents/ITU/3. Semester/BDSA/Assignments_Exercises/bdsa_assignment0/main.aux" 1631100647 130 a050d3406be9ffa20bb963cd72882481 ""
-  "/Users/jakobhjalgrim/Documents/ITU/3. Semester/BDSA/Assignments_Exercises/bdsa_assignment0/main.tex" 1631100659 347 5bf03da5e2938fec3ca0b6b9285ac875 ""
+["pdflatex"] 1631221772 "/Users/jakobhjalgrim/Documents/ITU/3. Semester/BDSA/Assignments_Exercises/bdsa_assignment0/main.tex" "/Users/jakobhjalgrim/Documents/ITU/3. Semester/BDSA/Assignments_Exercises/bdsa_assignment0/main.pdf" "main" 1631221773
+  "/Users/jakobhjalgrim/Documents/ITU/3. Semester/BDSA/Assignments_Exercises/bdsa_assignment0/main.aux" 1631221773 130 a050d3406be9ffa20bb963cd72882481 ""
+  "/Users/jakobhjalgrim/Documents/ITU/3. Semester/BDSA/Assignments_Exercises/bdsa_assignment0/main.tex" 1631221771 1310 3c0dea84b6db1c386d130e5bab16c254 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
@@ -35,12 +35,12 @@
   "/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1586288239 4811913 0be9a7e86c70a26e5e3042966bcd7097 ""
   "/usr/local/texlive/2020/texmf-var/web2c/pdftex/pdflatex.fmt" 1599719028 2432462 385b86f4ae597e4a6aa98835bc289143 ""
   "/usr/local/texlive/2020/texmf.cnf" 1586288231 577 d60164b4589a341208aff7a667fbbdcb ""
-  "images/leapyear_flowchart.png" 1631100486 29488 c87a2f01c038ca0d37a01a97812d780b ""
-  "main.aux" 1631100647 130 a050d3406be9ffa20bb963cd72882481 "pdflatex"
-  "main.tex" 1631100659 347 5bf03da5e2938fec3ca0b6b9285ac875 ""
+  "images/leapyear_flowchart.png" 1631220167 29488 c87a2f01c038ca0d37a01a97812d780b ""
+  "main.aux" 1631221773 130 a050d3406be9ffa20bb963cd72882481 "pdflatex"
+  "main.tex" 1631221771 1310 3c0dea84b6db1c386d130e5bab16c254 ""
   (generated)
+  "/Users/jakobhjalgrim/Documents/ITU/3. Semester/BDSA/Assignments_Exercises/bdsa_assignment0/main.log"
   "main.log"
+  "/Users/jakobhjalgrim/Documents/ITU/3. Semester/BDSA/Assignments_Exercises/bdsa_assignment0/main.pdf"
   "main.pdf"
   "main.aux"
-  "/Users/jakobhjalgrim/Documents/ITU/3. Semester/BDSA/Assignments_Exercises/bdsa_assignment0/main.log"
-  "/Users/jakobhjalgrim/Documents/ITU/3. Semester/BDSA/Assignments_Exercises/bdsa_assignment0/main.pdf"
