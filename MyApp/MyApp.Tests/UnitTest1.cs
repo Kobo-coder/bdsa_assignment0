@@ -10,18 +10,33 @@ namespace MyApp.Tests
         public void Test1()
         {
             Assert.True(Program.IsLeapYear(1600));
+        }
+
+        [Fact]
+        public void Test2()
+        {
             Assert.True(Program.IsLeapYear(1604));
+        }
+
+        [Fact]
+        public void Test3()
+        {
             Assert.False(Program.IsLeapYear(1700));
+        }
+
+        [Fact]
+        public void Test4()
+        {
             Assert.False(Program.IsLeapYear(1802));
         }
 
         [Fact]
-        public void Test2() {
+        public void Test5() {
             Assert.Throws<ArgumentException>(() => Program.IsLeapYear(1581));
         }  
 
         [Fact]
-        public void Test3() {
+        public void Test6() {
             var writer = new StringWriter();
             Console.SetOut(writer);
             Program.Main(new string[0]);
