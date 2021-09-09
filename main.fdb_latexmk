@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1631222578 "/Users/jakobhjalgrim/Documents/ITU/3. Semester/BDSA/Assignments_Exercises/bdsa_assignment0/main.tex" "/Users/jakobhjalgrim/Documents/ITU/3. Semester/BDSA/Assignments_Exercises/bdsa_assignment0/main.pdf" "main" 1631222578
+["pdflatex"] 1631222578 "/Users/jakobhjalgrim/Documents/ITU/3. Semester/BDSA/Assignments_Exercises/bdsa_assignment0/main.tex" "/Users/jakobhjalgrim/Documents/ITU/3. Semester/BDSA/Assignments_Exercises/bdsa_assignment0/main.pdf" "main" 1631222648
   "/Users/jakobhjalgrim/Documents/ITU/3. Semester/BDSA/Assignments_Exercises/bdsa_assignment0/main.aux" 1631222578 275 aa1e04a7f99ee03e0ff441ae5259c602 ""
-  "/Users/jakobhjalgrim/Documents/ITU/3. Semester/BDSA/Assignments_Exercises/bdsa_assignment0/main.tex" 1631222576 1417 3950b6940471ffe76f16045220fe691f ""
+  "/Users/jakobhjalgrim/Documents/ITU/3. Semester/BDSA/Assignments_Exercises/bdsa_assignment0/main.tex" 1631222647 1417 3950b6940471ffe76f16045220fe691f ""
   "/usr/local/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx9.tfm" 1136768653 1328 5442e22a7072966dbaf88ca900acf3f0 ""
@@ -43,10 +43,10 @@
   "/usr/local/texlive/2020/texmf.cnf" 1586288231 577 d60164b4589a341208aff7a667fbbdcb ""
   "images/leapyear_flowchart.png" 1631220167 29488 c87a2f01c038ca0d37a01a97812d780b ""
   "main.aux" 1631222578 275 aa1e04a7f99ee03e0ff441ae5259c602 "pdflatex"
-  "main.tex" 1631222576 1417 3950b6940471ffe76f16045220fe691f ""
+  "main.tex" 1631222647 1417 3950b6940471ffe76f16045220fe691f ""
   (generated)
   "main.aux"
+  "main.log"
   "main.pdf"
   "/Users/jakobhjalgrim/Documents/ITU/3. Semester/BDSA/Assignments_Exercises/bdsa_assignment0/main.pdf"
-  "main.log"
   "/Users/jakobhjalgrim/Documents/ITU/3. Semester/BDSA/Assignments_Exercises/bdsa_assignment0/main.log"
